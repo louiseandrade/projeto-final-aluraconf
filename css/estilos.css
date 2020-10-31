@@ -1,62 +1,67 @@
 .header {
-    background: url('../img/destaque.jpeg');
-    background-size: cover;
-    padding-top: 32px;
-  }
-  
-  .header .menu {
-    text-align: center;
-  }
-  
-  .header .menu .menu-item {
-    display: inline-block;
-    margin: 0 2px 32px 0;
-  }
+  background: url('../img/destaque.jpeg');
+  background-size: cover;
+  padding-top: 32px;
+}
 
-  .header .menu .menu-item a {
+.header .menu {
+  text-align: center;
+}
 
-    color: white;
-    padding: 16px;
-    background: rgba(0, 0, 0, 0.1);
-    border-radius: 4px;
-    text-transform: uppercase;
-    text-decoration: none;
-    transition: background-color 0.5s;
+.header .menu .menu-item {
+  display: inline-block;
+  margin: 0 2px 32px 0;
+}
+
+.header .menu .menu-item a {
+
+  color: white;
+  padding: 16px;
+  background: rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+  text-transform: uppercase;
+  text-decoration: none;
+  transition: background-color 0.5s;
 }
 
 .header .menu .menu-item a:hover {
-  background-color: #48A3A6;
+background-color: #48A3A6;
 }
 
 h1 {
-  color: #ffffff;
-  text-align: center;
-  font-size: 50px;
+color: #ffffff;
+text-align: center;
+font-size: 50px;
 }
 
 h2 {
-  color: #76ff40;
-  text-align: center;
-  font-size: 45px;
-  margin-top: 10px;
+color: #76ff40;
+text-align: center;
+font-size: 45px;
+margin-top: 10px;
 }
 
 .header .topo {
-  padding: 0 0 50px 0;
-  text-align: center;
-  text-transform: uppercase;
-  text-shadow: 4px 4px 10px black;
+padding: 0 0 50px 0;
+text-align: center;
+text-transform: uppercase;
+text-shadow: 4px 4px 10px black;
 
 }
 
 button {
-  background-color: #48A3A6;
-  border-radius: 6px;
+background-color: #48A3A6;
+border-radius: 6px;
 }
 
 .inscreva-se {
-  margin: 10px 10px;
-  padding: 15px;
-  color: #ffffff;
-  font-size: 25px;
+margin: 10px 10px;
+padding: 15px;
+color: #ffffff;
+font-size: 25px;
 }
+
+.texto-home {
+margin: 5px 5px;
+}
+
